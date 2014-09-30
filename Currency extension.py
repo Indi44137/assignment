@@ -14,5 +14,9 @@ div_result4 = mod_result//2
 mod_result = mod_result%2
 div_result5 = mod_result//1
 
+<<<<<<< HEAD
 print("Here is the amount of £20's that go into {0} is {1} the amount of £10's is {2}. The amount of £5's is {3}. The amount of £2's is {4}. The amount of £1's is {5}"
 
+=======
+print("The amount of £20's that go into the amount is {0}. The amount of £10 is {1}. The amount of £5 is {2}. The amount of £2 is {3} and the amount  of £1's is {4}!".format(div_result1, div_result2, div_result3, div_result4, div_result5))
+>>>>>>> branch 'master' of https://github.com/Indi44137/assignment.git
